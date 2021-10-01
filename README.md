@@ -1,7 +1,7 @@
 # Cybersecurity datasets
 Herein, we can find a curated list of cybersecurity datasets.
 
-# Table of contents
+## Table of contents
 * Network Intrusion Detection
 * Malware detection and analysis
 * Botnet Detection and Domain Generation Algorithms (DGAs)
