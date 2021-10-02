@@ -15,7 +15,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * NSL-KDD:
 * CTU-13: 
 * UNB ISCX 2012: 
-* AWID: 
+* [AWID:](https://icsdweb.aegean.gr/awid/) is a publicly available dataset that focuses on 802.11 networks. A small network environment with ten clients was designed to capture WLAN traffic in a packet-based format. In one hour, around 2 million packets were captured. 155 features were extracted from each packet. For generating malicious traffic, 15 specific attacks against the 802.11 network (e.g., Probe Request, and CTS Flooding) were executed. The dataset is labeled and divided into a training and a test subset.
 * CIC-IDS2017: 
 * CSE-CIC-IDS2018: 
 * CIC-DDoS2019: 
