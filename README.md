@@ -15,7 +15,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [NSL-KDD:](https://www.unb.ca/cic/datasets/nsl.html) is an improved version of KDD Cup 1999 built to alleviate the redundancy problems, another often used dataset for network intrusion detection. However, it should be regarded that the underlying network traffic of NSL-KDD dates back to the year 1998. The dataset is labeled following the same structure as KDDCup99 and comprises separate sets for training and testing. 
 * [CTU-13:](https://www.stratosphereips.org/datasets-ctu13) is a dataset of botnet traffic captured in the CTU University, Czech Republic, in 2011. The dataset aimed to have a large capture of real botnet traffic mixed with normal and background traffic. The CTU-13 dataset includes thirteen captures (i.e., scenarios) of different botnet samples. In each scenario, we executed a specific malware, which employed several protocols and performed different actions. 
 * [AWID:](https://icsdweb.aegean.gr/awid/) focuses on 802.11 networks. A small network environment with ten clients was designed to capture WLAN traffic in a packet-based format. In one hour, around 2 million packets were captured. 155 features were extracted from each packet. For generating malicious traffic, 15 specific attacks against the 802.11 network (e.g., Probe Request, and CTS Flooding) were executed. The dataset is labeled and divided into a training and a test subset.
-* CIC-IDS2017: 
+* [CIC-IDS2017:](https://www.unb.ca/cic/datasets/ids-2017.html) consists of labeled network flows, including full packet payloads in PCAP format, the corresponding profiles and the labeled flows and CSV files.
 * CSE-CIC-IDS2018: 
 * CIC-DDoS2019: 
 * LITNET-2020:  
