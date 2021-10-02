@@ -25,4 +25,14 @@ Herein, we can find a curated list of cybersecurity datasets.
 * TON_IoT: was generated in 2019 by Abdullah et al.~\cite{Alsaedi2020}, and includes different types of IoT data (e.g., operation system logs, telemetry data), as well as IoT network traffic collected from a medium-scale network at the Cyber Range and IoT Labs of the UNSW Canberra, Australia. 
 * IoT-23: is a dataset consisting of 20 captures that include malware activity and 3 captures of benign IoT traffic.
 
+## Malware detection and analysis
 
+## Botnet detection and Domain Generation Algorithms (DGAs)
+
+## Cyber-Physical System (CPS) Security
+
+## Spam filtering
+
+## Fraud detection
+
+## Encrypted traffic analysis
