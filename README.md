@@ -27,7 +27,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [IoTPOT:](https://ipsr.ynu.ac.jp/iot/) is a publicly available dataset that contains IoT threat samples collected by an IoT honeypot. The dataset initially comprises 500 malware samples, where most of them are categorized into four major families, including Linux.Gafgyt, Linux.Gafgyt.1, Trojan.Linux.Fgt and Mirai. The rest of the samples belong to relatively rare families such as Hajime, Tsunami, and LightAidra.
 * [Genome:](http://www.malgenomeproject.org/)  has around 1,242 malicious Android applications gathered in 2010 and 2011. The samples are divided into 49 malware families that comprise almost all malware categories, namely Rootkit, Botnet, SMS Trojans, Trojan, Installer, and Spyware. The majority of genome applications come from unofficial Chinese marketplaces.
 * [Contagio-Mobile:](https://contagiominidump.blogspot.com/)
-* [AndroZoo:](https://androzoo.uni.lu/) 
+* [AndroZoo:](https://androzoo.uni.lu/) is a growing collection of Android Applications collected from several sources (e.g., Google Play app market). It currently contains 17M different APKs, each of which has been analyzed by tens of different Antivirus products to know which applications are detected as malware.  
 
 ## Botnet detection and Domain Generation Algorithms (DGAs)
 * Alexa Internet: dynamic lists such as the global Top sites.
