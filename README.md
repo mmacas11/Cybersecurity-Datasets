@@ -24,10 +24,10 @@ Herein, we can find a curated list of cybersecurity datasets.
 
 ## Malware detection and analysis
 * [N-BaIoT:](https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT) contains real traffic obtained from nine commercial IoT devices such as Danmini doorbell, Provision PT-737E security camera, and Ecobee thermostat. For each device, the data was collected under both normal operating conditions and several different attacks performed by BASHLITE (e.g., scan, junk, UDP, TCP, and COMBO) and Mirai botnets (e.g., scan, Ack, Syn, DP, and UDPplain). The dataset has 115 numerical features.
-* IoTPOT: 
-* Genome: 
-* Contagio-Mobile:
-* AndroZoo:
+* [IoTPOT:](https://ipsr.ynu.ac.jp/iot/) is a publicly available dataset that contains IoT threat samples collected by an IoT honeypot. The dataset initially comprises 500 malware samples, where most of them are categorized into four major families, including Linux.Gafgyt, Linux.Gafgyt.1, Trojan.Linux.Fgt and Mirai. The rest of the samples belong to relatively rare families such as Hajime, Tsunami, and LightAidra.
+* [Genome:](http://www.malgenomeproject.org/)  has around 1,242 malicious Android applications gathered in 2010 and 2011. The samples are divided into 49 malware families that comprise almost all malware categories, namely Rootkit, Botnet, SMS Trojans, Trojan, Installer, and Spyware. The majority of genome applications come from unofficial Chinese marketplaces.
+* [Contagio-Mobile:](https://contagiominidump.blogspot.com/)
+* [AndroZoo:](https://androzoo.uni.lu/) 
 
 ## Botnet detection and Domain Generation Algorithms (DGAs)
 * Alexa Internet: dynamic lists such as the global Top sites.
