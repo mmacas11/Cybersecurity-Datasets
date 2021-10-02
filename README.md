@@ -38,7 +38,8 @@ Herein, we can find a curated list of cybersecurity datasets.
 * UMUDGA:
 
 ## Cyber-Physical System (CPS) Security
-* BATADAL:
+* [BATADAL:](https://www.batadal.net/data.html) represents a water distribution network comprised of seven storage tanks with eleven pumps and five valves, controlled via nine Programmable Logic Controllers (PLCs). The network was created using epanetCPA, an open-source, object-oriented Matlab toolbox that allows for the injections of cyber-physical attacks and simulates the response of the network to these attacks. The dataset contains 43 variables, representing the tank water levels (7 variables), the flow and status of all the pumps (24 variables), as well as the inlet and pressure for the pumping stations and valves (12 variables). All variables are continuous, except the status of valve and pumps, represented by binary variables. The training data simulates hourly measurements collected for 356 days, resulting in 8.761 records. The test set comprises 2.089 records, which were gathered for 90 days. There exist seven attacks present in the test data. The attacks involved malicious actuator activation, sensor measurement manipulation, and PLC setpoint changes. Besides, the attacks were concealed from the SCADA system by replacing the PLC-to-SCADA communication data with the data recorded at the same hour during normal operation. BATADAL can be download freely on the website. 
+
 * SWaT:
 * WADI:
 * Industrial Control System (ICS): https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
