@@ -11,9 +11,9 @@ Herein, we can find a curated list of cybersecurity datasets.
 * Encrypted traffic analysis
 
 ## Network Intrusion Detection
-KDD Cup 1999:
+* KDD Cup 1999:
 
-NSL-KDD:
+* NSL-KDD:
 
-CTU-13: This dataset includes botnet, normal, and background traffic captured at the Czech Technical University in Prague (CTU), in 2011. It contains the raw packet data (PCAP files) and considers 13 scenarios with different botnet attacks.
+* CTU-13: This dataset includes botnet, normal, and background traffic captured at the Czech Technical University in Prague (CTU), in 2011. It contains the raw packet data (PCAP files) and considers 13 scenarios with different botnet attacks.
 
