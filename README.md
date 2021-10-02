@@ -28,6 +28,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [Genome:](http://www.malgenomeproject.org/)  has around 1,242 malicious Android applications gathered in 2010 and 2011. The samples are divided into 49 malware families that comprise almost all malware categories, namely Rootkit, Botnet, SMS Trojans, Trojan, Installer, and Spyware. The majority of genome applications come from unofficial Chinese marketplaces.
 * [Contagio-Mobile:](https://contagiominidump.blogspot.com/) } is a part of [contagiodump.blogspot.com](https://contagiodump.blogspot.com/). It offers an upload dropbox for sharing the malware samples and downloading any samples individually or in one zip.
 * [AndroZoo:](https://androzoo.uni.lu/) is a growing collection of Android Applications collected from several sources (e.g., Google Play app market). It currently contains 17M different APKs, each of which has been analyzed by tens of different Antivirus products to know which applications are detected as malware.  
+* [VirusShare:](https://virusshare.com/)
 
 ## Botnet detection and Domain Generation Algorithms (DGAs)
 * Alexa Internet: dynamic lists such as the global Top sites.
