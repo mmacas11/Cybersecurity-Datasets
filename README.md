@@ -52,10 +52,10 @@ Alexa Internet: dynamic lists such as the global Top sites.
 * SMS Spam Collection v.1:
 
 ## Encrypted traffic analysis
-ISCX VPN-nonVPN
-ISCX Tor-nonTor
-Open HTTPS
-QUIC
+* ISCX VPN-nonVPN
+* ISCX Tor-nonTor
+* Open HTTPS
+* QUIC
 
 
 
