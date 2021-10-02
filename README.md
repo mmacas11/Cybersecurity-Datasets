@@ -30,7 +30,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * AndroZoo:
 
 ## Botnet detection and Domain Generation Algorithms (DGAs)
-Alexa Internet: dynamic lists such as the global Top sites.
+* Alexa Internet: dynamic lists such as the global Top sites.
 * OSINT: 
 * DGArchive: 
 * 360netlab:
