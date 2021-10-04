@@ -31,7 +31,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [VirusShare:](https://virusshare.com/) is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and access to samples of live malicious code.
 
 ## Botnet detection and Domain Generation Algorithms (DGAs)
-* Alexa Internet: Alexa Internet is often referred to simply as Alexa. It is a Web traffic information, metrics, and analytics provider. Alexa can provide to the visitors the following principal utilities:
+* [Alexa Internet:](https://www.alexa.com/topsites) Alexa Internet is often referred to simply as Alexa. It is a Web traffic information, metrics, and analytics provider. Alexa can provide to the visitors the following principal utilities:
   1. See data for Alexa Top Sites.
   2. Search for traffic data, such as ranking and bounce rate, for websites not included in the top-ranked sites.
   3. Download the Alexa toolbar, which allows them to see statistics for websites as they browse and records their browsing data for inclusion in Alexa statistics.
