@@ -32,10 +32,10 @@ Herein, we can find a curated list of cybersecurity datasets.
 
 ## Botnet detection and Domain Generation Algorithms (DGAs)
 * Alexa Internet: Alexa Internet is often referred to simply as Alexa. It is a Web traffic information, metrics, and analytics provider. Alexa can provide to the visitors the following principal utilities:
-1. See data for Alexa Top Sites.
-2. Search for traffic data, such as ranking and bounce rate, for websites not included in the top-ranked sites.
-3. Download the Alexa toolbar, which allows them to see statistics for websites as they browse and records their browsing data for inclusion in Alexa statistics.
-4. Create a custom toolbar, which can be shared.
+  1. See data for Alexa Top Sites.
+  2. Search for traffic data, such as ranking and bounce rate, for websites not included in the top-ranked sites.
+  3. Download the Alexa toolbar, which allows them to see statistics for websites as they browse and records their browsing data for inclusion in Alexa statistics.
+  4. Create a custom toolbar, which can be shared.
 * OSINT: 
 * DGArchive: 
 * 360netlab:
