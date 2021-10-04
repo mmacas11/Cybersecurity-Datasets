@@ -36,11 +36,11 @@ Herein, we can find a curated list of cybersecurity datasets.
   2. Search for traffic data, such as ranking and bounce rate, for websites not included in the top-ranked sites.
   3. Download the Alexa toolbar, which allows them to see statistics for websites as they browse and records their browsing data for inclusion in Alexa statistics.
   4. Create a custom toolbar, which can be shared.
-* OSINT: 
-* DGArchive: 
-* 360netlab:
-* AmritaDGA:
-* UMUDGA:
+* [OSINT:](https://www.bambenekconsulting.com/free-osint-tools/) 
+* [DGArchive:](https://dgarchive.caad.fkie.fraunhofer.de/welcome/) 
+* [360netlab:](https://data.netlab.360.com/)
+* [AmritaDGA:](https://vinayakumarr.github.io/AmritaDGA/)
+* [UMUDGA:](https://data.mendeley.com/datasets/y8ph45msv8/1)
 
 ## Cyber-Physical System (CPS) Security
 * [BATADAL:](https://www.batadal.net/data.html) represents a water distribution network comprised of seven storage tanks with eleven pumps and five valves, controlled via nine Programmable Logic Controllers (PLCs). The network was created using epanetCPA, an open-source, object-oriented Matlab toolbox that allows for the injections of cyber-physical attacks and simulates the response of the network to these attacks. The dataset contains 43 variables, representing the tank water levels (7 variables), the flow and status of all the pumps (24 variables), as well as the inlet and pressure for the pumping stations and valves (12 variables). All variables are continuous, except the status of valve and pumps, represented by binary variables. The training data simulates hourly measurements collected for 356 days, resulting in 8.761 records. The test set comprises 2.089 records, which were gathered for 90 days. There exist seven attacks present in the test data. The attacks involved malicious actuator activation, sensor measurement manipulation, and PLC setpoint changes. Besides, the attacks were concealed from the SCADA system by replacing the PLC-to-SCADA communication data with the data recorded at the same hour during normal operation. BATADAL can be download freely on the website. 
