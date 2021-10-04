@@ -50,7 +50,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [HAI:](https://github.com/icsdataset/hai)
 
 ## Spam filtering
-* [WEBSPAM-UK2007:](https://chato.cl/webspam/datasets/uk2007/)
+* [WEBSPAM-UK2007:](https://chato.cl/webspam/datasets/uk2007/) is an extensive collection of annotated spam/nonspam hosts labeled by a group of volunteers. The base data is a set of 105,9M pages in 114,529 hosts in the—UK domain. The data was downloaded in May 2007 by the Laboratory of Web Algorithmics, Università Degli Studi di Milano.
 * [UtkMI:](https://www.kaggle.com/c/utkml-twitter-spam/data) 
 * [Social honeypot:](http://infolab.tamu.edu/data/)
 * [SMS Spam Collection v.1:](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
