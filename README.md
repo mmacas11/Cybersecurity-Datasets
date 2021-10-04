@@ -47,13 +47,13 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [SWaT:](https://itrust.sutd.edu.sg/testbeds/secure-water-treatment-swat/) was built at the Singapore University of Technology and Design in 2016, which is available upon request. It is a scaled-down, fully operational water treatment plant and comprises a six-stage process. Each stage is equipped with several sensors and actuators. The sensors comprise water pumps, flow meters, valves that control inflow are the actuators, and chemical dosing pumps. The sensors and actuators of each stage are connected to the corresponding PLC, and the PLCs are connected to the SCADA systems. This dataset comprises seven days of recording under normal conditions and four days during which 36 attacks were conducted (e.g., false sensor readings, and false control signals). The entire dataset contains 946,722 records, labeled as either attacks or normal, with 51 attributes corresponding to the sensor and actuator data.
 * [WADI:](https://itrust.sutd.edu.sg/testbeds/water-distribution-wadi/) was built by the authors of SWaT \cite{goh2016dataset} and contains several large water tanks that supply water to consumer tanks. The dataset contains 15 attacks whose goal is to stop the water supply to the consumer tanks. The attacks were conducted by opening valves and spoofing sensors readings, and partially concealed. WADI is significantly larger than the SWaT and BATADAL dataset, contains 1.221.372 data points (full dataset) and 126 features. WADI is available upon request. 
 * Industrial Control System (ICS): https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
-* HAI
+* [HAI:](https://github.com/icsdataset/hai)
 
 ## Spam filtering
-* WEBSPAM-UK2007:
-* UtkMI:
-* Social honeypot:
-* SMS Spam Collection v.1:
+* [WEBSPAM-UK2007:](https://chato.cl/webspam/datasets/uk2007/)
+* [UtkMI:](https://www.kaggle.com/c/utkml-twitter-spam/data) 
+* [Social honeypot:](http://infolab.tamu.edu/data/)
+* [SMS Spam Collection v.1:](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 
 ## Encrypted traffic analysis
 * ISCX VPN-nonVPN
