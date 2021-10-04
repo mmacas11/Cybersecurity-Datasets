@@ -59,7 +59,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [ISCX VPN-nonVPN:](https://www.unb.ca/cic/datasets/vpn.html)
 * [ISCX Tor-nonTor:](https://www.unb.ca/cic/datasets/tor.html)
 * [Open HTTPS:](http://betternet.lhs.loria.fr/datasets/https/index.html)
-* QUIC:
+* [QUIC:](https://drive.google.com/drive/folders/1Pvev0hJ82usPh6dWDlz7Lv8L6h3JpWhE)
 
 
 
