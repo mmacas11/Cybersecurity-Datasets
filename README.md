@@ -56,10 +56,10 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [SMS Spam Collection v.1:](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 
 ## Encrypted traffic analysis
-* ISCX VPN-nonVPN
-* ISCX Tor-nonTor
-* Open HTTPS
-* QUIC
+* [ISCX VPN-nonVPN:](https://www.unb.ca/cic/datasets/vpn.html)
+* [ISCX Tor-nonTor:](https://www.unb.ca/cic/datasets/tor.html)
+* [Open HTTPS:](http://betternet.lhs.loria.fr/datasets/https/index.html)
+* QUIC:
 
 
 
