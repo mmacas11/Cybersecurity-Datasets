@@ -59,7 +59,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [ISCX VPN-nonVPN:](https://www.unb.ca/cic/datasets/vpn.html)
 * [ISCX Tor-nonTor:](https://www.unb.ca/cic/datasets/tor.html)
 * [Open HTTPS:](http://betternet.lhs.loria.fr/datasets/https/index.html)
-* [QUIC:](https://drive.google.com/drive/folders/1Pvev0hJ82usPh6dWDlz7Lv8L6h3JpWhE)
+* [QUIC:](https://drive.google.com/drive/folders/1Pvev0hJ82usPh6dWDlz7Lv8L6h3JpWhE) was captured at the University of California at Davis, which contains QUIC traffic of 5 Google services: Google Doc (1251 flows), Google Drive (1664 flows), Google Music (622 flows), Youtube (1107 flows), Google Search (1945 flows). The dataset contains time-series features: packet length, relative time, and direction. The dataset has already been pre-processed. 
 
 
 
