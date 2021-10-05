@@ -38,7 +38,7 @@ Herein, we can find a curated list of cybersecurity datasets.
   4. Create a custom toolbar, which can be shared.
 * [OSINT:](https://www.bambenekconsulting.com/free-osint-tools/) is feed from Bambenek Consulting, which includes DGA domains from 50 different DGA families and more than 800K malicious domain names. Moreover,  more than 30 reverse-engineered DGAs are provided by DGArchive, which can be employed to create malicious domain names on an internal network.
 * [DGArchive:](https://dgarchive.caad.fkie.fraunhofer.de/welcome/)  allows resolving or calculating domain names that are dynamically created by malware using DGAs.
-* [360netlab:](https://data.netlab.360.com/) suspicious DGA from 360+VT Sandbox and [PassiveDNS.cn](https://passivedns.cn/login/?next=%2F).
+* [360netlab:](https://data.netlab.360.com/) suspicious DGA from 360+VT Sandbox and [PassiveDNS.cn](https://passivedns.cn/login/?next=%2F). It contains 52 DGA families.
 * [AmritaDGA:](https://vinayakumarr.github.io/AmritaDGA/)
 * [UMUDGA:](https://data.mendeley.com/datasets/y8ph45msv8/1)
 
