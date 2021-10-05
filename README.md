@@ -52,7 +52,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 ## Spam filtering
 * [WEBSPAM-UK2007:](https://chato.cl/webspam/datasets/uk2007/) is an extensive collection of annotated spam/nonspam hosts labeled by a group of volunteers. The base data is a set of 105,9M pages in 114,529 hosts in the—UK domain. The data was downloaded in May 2007 by the Laboratory of Web Algorithmics, Università Degli Studi di Milano.
 * [UtkMI:](https://www.kaggle.com/c/utkml-twitter-spam/data) is labeled SMS messages dataset collected for mobile phone message research. It contains 5815 spam samples and 6153 harmful samples. 
-* [Social honeypot:](http://infolab.tamu.edu/data/)
+* [Social honeypot:](http://infolab.tamu.edu/data/) was collected from December 30, 2009 to August 2, 2010 on Twitter. The dataset contains 22,223 content polluters, their number of followings over time, 2,353,473 tweets, and 19,276 legitimate users, their number of followings over time and 3,259,693 tweets.
 * [SMS Spam Collection v.1:](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) is a public set of SMS labeled messages that have been collected for mobile phone spam research. It has one collection composed of 5,574 English, real and non-encoded messages, tagged according to being legitimate (ham) or spam.
 
 ## Encrypted traffic analysis
