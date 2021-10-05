@@ -36,7 +36,7 @@ Herein, we can find a curated list of cybersecurity datasets.
   2. Search for traffic data, such as ranking and bounce rate, for websites not included in the top-ranked sites.
   3. Download the Alexa toolbar, which allows them to see statistics for websites as they browse and records their browsing data for inclusion in Alexa statistics.
   4. Create a custom toolbar, which can be shared.
-* [OSINT:](https://www.bambenekconsulting.com/free-osint-tools/) 
+* [OSINT:](https://www.bambenekconsulting.com/free-osint-tools/) is feed from Bambenek Consulting, which includes DGA domains from 50 different DGA families and more than 800K malicious domain names. Moreover,  more than 30 reverse-engineered DGAs are provided by DGArchive, which can be employed to create malicious domain names on an internal network.
 * [DGArchive:](https://dgarchive.caad.fkie.fraunhofer.de/welcome/) 
 * [360netlab:](https://data.netlab.360.com/)
 * [AmritaDGA:](https://vinayakumarr.github.io/AmritaDGA/)
