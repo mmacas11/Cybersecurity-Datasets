@@ -7,8 +7,7 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [Botnet detection and Domain Generation Algorithms (DGAs)](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#botnet-detection-and-domain-generation-algorithms-dgas)
 * [Cyber-Physical System (CPS) Security](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#cyber-physical-system-cps-security)
 * [Spam filtering](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#spam-filtering)
-* Fraud detection
-* Encrypted traffic analysis
+* [Encrypted traffic analysis](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#encrypted-traffic-analysis)
 
 ## Network Intrusion Detection
 * [KDD Cup 1999:](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) was created based on the DARPA 1998 dataset and inherit the same problems. Nevertheless, it is one of the most employed datasets until now for network intrusion detection. KDDCup99 includes full-packet data, break into subsets for training and testing. The network traffic is labeled in five classes: Normal, Probe, User to Root attacks, Remote to Local attacks, and DoS attacks. 
