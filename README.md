@@ -5,8 +5,8 @@ Herein, we can find a curated list of cybersecurity datasets.
 * [Network Intrusion Detection](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#network-intrusion-detection)
 * [Malware detection and analysis](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#malware-detection-and-analysis)
 * [Botnet detection and Domain Generation Algorithms (DGAs)](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#botnet-detection-and-domain-generation-algorithms-dgas)
-* Cyber-Physical System (CPS) Security
-* Spam filtering
+* [Cyber-Physical System (CPS) Security](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#cyber-physical-system-cps-security)
+* [Spam filtering](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#spam-filtering)
 * Fraud detection
 * Encrypted traffic analysis
 
